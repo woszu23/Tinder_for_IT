@@ -1,0 +1,82 @@
+Strona logowania/Rejestracja:   MVP
+
+Nowi użytkownicy mogą utworzyć konto, podając swoje podstawowe informacje.
+Istniejący użytkownicy mogą zalogować się, używając swojego adresu e-mail/loginu i hasła.
+
+Profil użytkownika tworzony przy rejestracji:   MVP
+
+Użytkownicy mogą utworzyć swój profil, dodając informacje takie jak:
+Zainteresowania programistyczne (np. języki programowania, frameworki, technologie).
+Portfolio projektów (linki do repozytoriów GitHub).
+Krótki opis o sobie.
+Umiejętności programistyczne, poziom zaawansowania.
+Ponadto podają wiek oraz płeć.
+Użytkownik może dodać zdjęcie lub avatara.
+
+Przeglądanie profili:  MVP
+
+Wyświetlanie losowe użytkownika
+Zaakceptowanie albo odrzucenie wyboru
+
+KONIEC MVP
+
+
+
+
+
+Użytkownicy mogą przeglądać profile innych programistów.
+Możliwość filtrowania profili na podstawie zainteresowań, umiejętności, lokalizacji itp.
+
+Swipy (na zasadzie funkcji przeciągnij i upuść):
+
+Użytkownicy mogą przeciągać karty profili w lewo (aby odrzucić) lub w prawo (aby polubić).
+Jeśli dwa profile polubią się nawzajem, aplikacja informuje ich o "matchu".
+
+Wiadomości:
+
+Zainicjowanie rozmowy między zmatchowanymi użytkownikami.
+Możliwość wymiany linków do projektów, kodu itp.
+
+Powiadomienia:
+
+Użytkownicy otrzymują powiadomienia o nowych wiadomościach, matchach, itp.
+
+Ustawienia:
+
+Edycja profilu.
+Zarządzanie ustawieniami prywatności.
+Wybór preferencji dotyczących wyszukiwania.
+
+Wylogowanie:
+
+Bezpieczne zakończenie sesji.
+
+
+
+
+
+
+
+MVP::: Opis komponentów:
+
+Strona internetowa: Interfejs użytkownika dostępny przez przeglądarkę internetową na komputerze.
+
+Serwer/API: Obsługuje żądania od klientów (w tym strony internetowej), zarządza logiką biznesową, obsługuje autentykację i przetwarza operacje na bazie danych.
+
+Rejestracja/Logowanie: Umożliwia nowym użytkownikom tworzenie konta i istniejącym użytkownikom logowanie się, także za pomocą konta GitHub.
+
+Profil użytkownika: Pozwala użytkownikom tworzyć i edytować swoje profile, dodając informacje o zainteresowaniach, portfolio projektów, opisie i umiejętnościach programistycznych.
+
+Przeglądanie profili: Umożliwia użytkownikom przeglądanie profili innych programistów oraz filtrowanie na podstawie zainteresowań, umiejętności, lokalizacji itp.
+
+Swipy (matching): Pozwala użytkownikom przeglądać karty profili innych programistów i przeciągać w lewo (odrzucenie) lub w prawo (polubienie). W przypadku wzajemnego polubienia, informuje o "matchu".
+
+Wiadomości: Umożliwia inicjowanie rozmowy między zmatchowanymi użytkownikami oraz wymianę linków do projektów, kodu itp.
+
+Powiadomienia: Informuje użytkowników o nowych wiadomościach, matchach itp.
+
+Ustawienia: Pozwala użytkownikom edytować swoje profile, zarządzać ustawieniami prywatności, wybierać preferencje dotyczące wyszukiwania.
+
+Wylogowanie: Zapewnia bezpieczne zakończenie sesji.
+
+
